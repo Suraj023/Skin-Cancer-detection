@@ -1,5 +1,5 @@
 # Skin-Cancer-detection
-Classification of skin cancer problem with the help of hmnist_28_28_RGB from ISIC dataset 
+Classification of skin cancer problem with the help of hmnist_28_28_RGB from ISIC dataset Ham10000.csv
 
 Dataset link:  https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000?select=hmnist_28_28_RGB.csv
 
